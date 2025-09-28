@@ -17,15 +17,19 @@ product.
 Much of the same materials from the previous builds were used here:
 
 -Lego technic parts
+
 -Tape
+
 -Stepper motor
+
 -Arduino UNO
+
 -Tack
 
 ## How it works
 Here's a gif of it moving:
 
--![ConveyorBelt-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893)
+![ConveyorBelt-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893)
 
 
 
