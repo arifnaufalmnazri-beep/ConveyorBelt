@@ -39,6 +39,7 @@ The stepper motor connected to the arduino rotates anticlockwise, which spins th
 The code for it is a simple program that rotates the stepper motor 360 degrees continuously. Here's the code: [conveyorBelt.ino](conveyorBelt.ino)
 
 ## What's next
+I am happy with how this project turned out. It took some tweaking to get the axle to fit onto the stepper motor, but after some trial and error, it finally stuck. I'm planning on building a DIY robot arm next, but what actually happens, only time will tell. For now, though, this is another fresh step to obtaining a future university scholarship using my GitHub portfolio. 
 
 
 
