@@ -8,10 +8,25 @@ belt came. This time, I also challenged myself to design the build first on pape
 ## The designs
 I had two iterations of the design for the conveyor belt, the second of which came to me as I was illustrating the first, and was the design I implemented in the final 
 product. 
-Design 1:
+
 ![1000063727](https://github.com/user-attachments/assets/f52be27d-f2bf-4864-aff5-010084f64120)
-Design 2:
+
 ![20250926_162814](https://github.com/user-attachments/assets/3db2be5b-cba4-43d2-a004-5f94fe56c6a4)
+
+## Materials
+Much of the same materials from the previous builds were used here:
+-Lego technic parts
+-Tape
+-Stepper motor
+-Arduino UNO
+-Tack
+
+## How it works
+Here's a gif of it moving:
+![ConveyorBelt-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/871afd62-4f51-478e-929f-bff55f73e893)
+
+
+
 
 
 
