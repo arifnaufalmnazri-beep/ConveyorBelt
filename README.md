@@ -36,6 +36,7 @@ Here's a gif of it moving:
 The stepper motor connected to the arduino rotates anticlockwise, which spins the axle which the wheel is attached too. Then, the tape that serves as a conveyor belt gets pulled from that rotation. This forms a coherent conveyor belt that functions to bring items from one place to another, much like the gear shown in the video. With a few atlerations from the final design, such as the gears attached to the wheels and some extra lego pieces used behind to support the stepper motor, the final product turned out well in my opinion. 
 
 ## Code
+The code for it is a simple program that rotates the stepper motor 360 degrees continuously. Here's the code: 
 
 
 
